@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 10B6-23F3
+
+ Directory of C:\Users\SlawomirJelonek\Desktop\MyProject
+
+22.01.2019  12:02    <DIR>          .
+22.01.2019  12:02    <DIR>          ..
+22.01.2019  12:02                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  124ÿ095ÿ180ÿ800 bytes free
